@@ -14,7 +14,7 @@ Este MVP apresenta um catálogo de serviços profissionais com as seguintes func
 
 ## 🎯 Requisitos Atendidos
 
-### Componentização (3,5 pts)
+### Componentização
 - ✅ Divisão da aplicação em 3 páginas com componentes reutilizáveis
 - ✅ 4+ componentes reutilizáveis:
   - `Header` - Navegação principal com menu responsivo
@@ -23,7 +23,7 @@ Este MVP apresenta um catálogo de serviços profissionais com as seguintes func
   - `AlertMessage` - Mensagens de feedback (sucesso, erro, aviso, info)
 - ✅ Dados simulados com JSON (sem requisições reais)
 
-### React e Roteamento (2,5 pts)
+### React e Roteamento
 - ✅ Uso correto de `useState`, `useEffect` e hooks customizados
 - ✅ Roteamento com **Wouter** (alternativa ao React Router)
 - ✅ 3+ hooks de navegação:
@@ -32,7 +32,7 @@ Este MVP apresenta um catálogo de serviços profissionais com as seguintes func
   - `useRouter` - Navegação programática
 - ✅ Página 404 para URLs inválidas
 
-### Usabilidade (2 pts)
+### Usabilidade 
 - ✅ Feedback visual:
   - Loaders durante carregamento
   - Mensagens de sucesso/erro
@@ -40,7 +40,7 @@ Este MVP apresenta um catálogo de serviços profissionais com as seguintes func
 - ✅ Tooltips explicativos em elementos interativos
 - ✅ Layout responsivo (mobile-first, tablet e desktop)
 
-### Organização e Documentação (2 pts)
+### Organização e Documentação 
 - ✅ Projeto hospedado no GitHub (público)
 - ✅ README.md com instruções claras
 - ✅ Estrutura de pastas bem organizada
