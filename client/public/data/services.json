@@ -1,0 +1,112 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Consultoria Estratégica",
+      "category": "consultoria",
+      "price": 250.00,
+      "duration": "2 horas",
+      "description": "Consultoria especializada para alinhamento estratégico de sua empresa com objetivos de mercado.",
+      "fullDescription": "Nosso serviço de consultoria estratégica oferece uma análise profunda de seus processos, mercado e competidores. Ajudamos sua empresa a identificar oportunidades de crescimento e implementar estratégias eficazes para alcançar seus objetivos de negócio.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop",
+      "features": [
+        "Análise de mercado completa",
+        "Identificação de oportunidades",
+        "Plano de ação estratégico",
+        "Acompanhamento de implementação"
+      ],
+      "rating": 4.8,
+      "reviews": 24
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento Web",
+      "category": "desenvolvimento",
+      "price": 150.00,
+      "duration": "Variável",
+      "description": "Criação de websites modernos e responsivos com as melhores práticas de desenvolvimento.",
+      "fullDescription": "Desenvolvemos websites profissionais utilizando as tecnologias mais atuais do mercado. Nossos projetos são otimizados para performance, SEO e experiência do usuário, garantindo que seu site destaque-se na concorrência.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop",
+      "features": [
+        "Design responsivo",
+        "Otimização SEO",
+        "Performance otimizada",
+        "Suporte técnico incluído"
+      ],
+      "rating": 4.9,
+      "reviews": 42
+    },
+    {
+      "id": 3,
+      "name": "Design Gráfico",
+      "category": "design",
+      "price": 100.00,
+      "duration": "1-3 dias",
+      "description": "Criação de identidade visual e materiais gráficos para sua marca.",
+      "fullDescription": "Nossos designers criativos desenvolvem identidades visuais únicas e memoráveis. Desde logos até campanhas completas, garantimos que sua marca comunique seus valores e atraia seu público-alvo.",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=300&fit=crop",
+      "features": [
+        "Logo e identidade visual",
+        "Paleta de cores profissional",
+        "Materiais de marketing",
+        "Revisões ilimitadas"
+      ],
+      "rating": 4.7,
+      "reviews": 31
+    },
+    {
+      "id": 4,
+      "name": "Marketing Digital",
+      "category": "marketing",
+      "price": 200.00,
+      "duration": "Mensal",
+      "description": "Estratégias de marketing digital para aumentar sua presença online e gerar leads.",
+      "fullDescription": "Implementamos estratégias de marketing digital completas, incluindo gestão de redes sociais, campanhas de publicidade e análise de dados. Nosso objetivo é maximizar seu ROI e construir relacionamentos duradouros com seus clientes.",
+      "image": "https://images.unsplash.com/photo-1460925895917-adf4e565db18?w=400&h=300&fit=crop",
+      "features": [
+        "Gestão de redes sociais",
+        "Campanhas de publicidade",
+        "Análise de dados e relatórios",
+        "Otimização contínua"
+      ],
+      "rating": 4.6,
+      "reviews": 18
+    },
+    {
+      "id": 5,
+      "name": "Suporte Técnico 24/7",
+      "category": "suporte",
+      "price": 50.00,
+      "duration": "Mensal",
+      "description": "Suporte técnico contínuo para manter seus sistemas funcionando sem interrupções.",
+      "fullDescription": "Oferecemos suporte técnico 24 horas por dia, 7 dias por semana. Nossa equipe experiente está sempre pronta para resolver problemas, fazer manutenção preventiva e garantir a disponibilidade de seus sistemas.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop",
+      "features": [
+        "Atendimento 24/7",
+        "Resposta em até 1 hora",
+        "Manutenção preventiva",
+        "Relatórios mensais"
+      ],
+      "rating": 4.9,
+      "reviews": 56
+    },
+    {
+      "id": 6,
+      "name": "Treinamento e Capacitação",
+      "category": "treinamento",
+      "price": 120.00,
+      "duration": "4 horas",
+      "description": "Programas de treinamento personalizados para sua equipe.",
+      "fullDescription": "Desenvolvemos programas de treinamento customizados para as necessidades específicas da sua equipe. Nossos instrutores experientes utilizam metodologias práticas e interativas para garantir aprendizado efetivo.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop",
+      "features": [
+        "Conteúdo personalizado",
+        "Metodologia prática",
+        "Material didático incluído",
+        "Certificado de conclusão"
+      ],
+      "rating": 4.8,
+      "reviews": 22
+    }
+  ]
+}
